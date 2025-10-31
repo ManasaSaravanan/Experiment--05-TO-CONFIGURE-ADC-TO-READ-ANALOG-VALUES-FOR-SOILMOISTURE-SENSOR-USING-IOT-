@@ -438,7 +438,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots on serial monitor   :
- 
+
+ ![WhatsApp Image 2025-10-31 at 09 40 29_1d2b1690](https://github.com/user-attachments/assets/74cf3fce-5842-4f75-993b-4e530d8ae2b3)
+
  <img width="1904" height="1027" alt="IOT5OUTPU" src="https://github.com/user-attachments/assets/c5302719-b7bc-4fbe-9e3f-c8c7ff0009ca" />
 
 
